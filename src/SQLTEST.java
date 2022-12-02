@@ -9,12 +9,13 @@ public class SQLTEST {
 		int sum = a+b;
 		System.out.println(sum);
 		
+		// this is from git 
+		
+		System.out.println(a+b);
+		
 
-	}
-public static getName(){
 	
-	String name = "hamed";
-	retun name;
+
 	
 	double s = 2.5;
 	double d = 3.5;
