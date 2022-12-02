@@ -6,9 +6,14 @@ public class SQLTEST {
 		
 		int a = 20;
 		int b = 40;
-		int sum = 0;
+		int sum = a+b;
+		System.out.println(sum);
 		
 
 	}
-
+public static getName(){
+	
+	String name = "hamed";
+	retun name;
+}
 }
