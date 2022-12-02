@@ -15,5 +15,9 @@ public static getName(){
 	
 	String name = "hamed";
 	retun name;
+	
+	double s = 2.5;
+	double d = 3.5;
+	
 }
 }
